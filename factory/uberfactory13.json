@@ -1,0 +1,15 @@
+{
+	"name": "uberfactory13",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f508d85-72d4-4841-bc22-b91394280d92",
+		"tenantId": "6b6147ed-7989-4cc4-9b07-3df6642e18e7"
+	}
+}
